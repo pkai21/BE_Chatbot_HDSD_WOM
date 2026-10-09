@@ -1,0 +1,120 @@
+[
+  {
+    "id": "phuong_01",
+    "name": "LIÊN HỆ HỖ TRỢ",
+    "description": "**Liên hệ hỗ trợ**",
+    "sub_modules": [],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_02",
+    "name": "ĐĂNG NHẬP",
+    "description": "ĐĂNG NHẬP",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng tiến hành nhập tên tài khoản, mật khẩu do công ty cấp.",
+      "Bước 2: Người dùng chọn vào nút “Đăng nhập”."
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_03",
+    "name": "THAY ĐỔI THÔNG TIN CÁ NHÂN",
+    "description": "THAY ĐỔI THÔNG TIN CÁ NHÂN",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Sau khi đăng nhập, người dùng nháy chuột trái vào tên đơn vị, sau đó chọn \"Thông tin tài khoản\".",
+      "Bước 2: Trong giao diện này, người dùng có thể thay đổi các thông tin sau"
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_04",
+    "name": "THAY ĐỔI MẬT KHẨU",
+    "description": "THAY ĐỔI MẬT KHẨU",
+    "sub_modules": [],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_05",
+    "name": "TỔNG QUAN CHỨC NĂNG TÀI KHOẢN PHƯỜNG/XÃ",
+    "description": "TỔNG QUAN CHỨC NĂNG TÀI KHOẢN PHƯỜNG/XÃ",
+    "sub_modules": [],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_06",
+    "name": "TẠO MỚI TÀI KHOẢN PHƯỜNG/XÃ",
+    "description": "TẠO MỚI TÀI KHOẢN PHƯỜNG/XÃ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng vào chức năng \"Tài khoản Phường/xã\" . Chọn nút Tạo mới. Phần mềm sẽ hiển thị giao diện Tạo mới tài khoản",
+      "Bước 2: Người dùng nhập đủ các thông tin tài khoản bao gồm:",
+      "Bước 3: Người dùng tiến hành chọn “Lưu”  để lưu thông tin tài khoản vừa tạo"
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_07",
+    "name": "CHỈNH SỬA TÀI KHOẢN PHƯỜNG/XÃ",
+    "description": "CHỈNH SỬA TÀI KHOẢN PHƯỜNG/XÃ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng chọn vào biểu tượng “Cây bút chì”",
+      "Bước 2: Nhập các thông tin cần chỉnh sửa và bấm “Lưu”"
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_08",
+    "name": "KHÔI PHỤC MẬT KHẨU TÀI KHOẢN PHƯỜNG/XÃ",
+    "description": "KHÔI PHỤC MẬT KHẨU TÀI KHOẢN PHƯỜNG/XÃ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng chọn vào biểu tượng chìa khóa(  )",
+      "Bước 2: Phần mềm hiển thị cảnh báo, người dùng chọn  “Đồng ý”. Phần mềm sẽ hiển thị mật khẩu mới cho người dùng"
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_09",
+    "name": "XÓA TÀI KHOẢN PHƯỜNG/XÃ",
+    "description": "XÓA TÀI KHOẢN PHƯỜNG/XÃ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng tick chọn vào tài khoản cần xóa. Phần mềm hiển thị thông báo xóa tài khoản",
+      "Bước 2: Người dùng chọn “Xoá” để xóa tài khoản."
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_10",
+    "name": "BÁO CÁO TAI NẠN LAO ĐỘNG ĐỊNH KỲ KHÔNG THEO HĐLĐ",
+    "description": "BÁO CÁO TAI NẠN LAO ĐỘNG ĐỊNH KỲ KHÔNG THEO HĐLĐ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 2: Để khai báo, người dùng chọn vào biểu tượng “Cây bút chì” tại kỳ báo cáo muốn thực hiện. Phần mềm sẽ hiển thị các thông tin khai báo trong báo cáo",
+      "Bước 3: Người dùng tiến hành nhập các dữ liệu báo cáo phần (1) Tổng số vụ tai nạn lao động",
+      "Bước 4: Người dùng bấm qua phần (2) Chi tiết phân loại theo nghề nghiệp. Chọn “Thêm mới phân loại” để tiến hành khai báo để nhập các thông tin bao gồm:",
+      "Bước 5: Người dùng chọn (3) Xem tổng quan báo cáo để xem lại các dữ liệu đã nhập ở phần (1) và (2)",
+      "Bước 6: Người dùng chọn “Gửi báo cáo” để gửi báo cáo Tai nạn lao động định kỳ không theo HĐLĐ lên cho Sở"
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  },
+  {
+    "id": "phuong_11",
+    "name": "BÁO CÁO TAI NẠN LAO ĐỘNG ĐỘT XUẤT KHÔNG THEO HĐLĐ",
+    "description": "BÁO CÁO TAI NẠN LAO ĐỘNG ĐỘT XUẤT KHÔNG THEO HĐLĐ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 2: Chọn biểu tượng “Tạo mới” để khai báo tai nạn lao động đột xuất",
+      "Bước 3: Người dùng nhập Thông tin Phường/xã bao gồm các thông tin như:",
+      "Bước 4: Người dùng nhập Thông tin tai nạn lao động bao gồm các thông tin bắt buộc ( dấu ) như:",
+      "Bước 5: Người dùng nhập Sơ lược về thông nạn nhân. Chọn “Thêm mới” để nhập thông tin của nạn nhân",
+      "Bước 6: Người dùng nhập đầy đủ các thông tin của nạn nhân bao gồm các thông tin bắt buộc ( dấu ) như:",
+      "Bước 7: Để tải file đính kèm, người dùng bấm vào chọn file và lựa chọn file cần tải lên",
+      "Bước 8: Sau khi hoàn tất việc nhập thông tin, người dùng chọn “Lưu” để lưu các thông tin đã nhập, hoặc chọn “Gửi báo cáo” để gửi phần khai báo này lên cho Sở"
+    ],
+    "document_source": "HDSD ATLĐ (Phường).docx"
+  }
+]

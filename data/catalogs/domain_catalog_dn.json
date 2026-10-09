@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dn_01",
+    "name": "LIÊN HỆ HỖ TRỢ",
+    "description": "**Liên hệ hỗ trợ**",
+    "sub_modules": [],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  },
+  {
+    "id": "dn_02",
+    "name": "ĐĂNG KÝ",
+    "description": "- ĐĂNG KÝ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng truy cập vào đường link hệ thống => Chọn Đăng ký",
+      "Bước 2: Giao diện đăng ký thông tin sẽ hiển thị. Người dùng tiến hành nhập các thông tin của doanh nghiệp. Các thông tin bắt buộc (dấu ) người dùng không được để trống. Người dùng chọn Lưu  để qua bước tiếp theo.",
+      "Bước 3: Tại bước Xác nhận đăng ký người dùng kiểm tra lại các thông tin. Chọn Lưu để hoàn thành việc đăng ký tài khoản."
+    ],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  },
+  {
+    "id": "dn_03",
+    "name": "ĐĂNG NHẬP",
+    "description": "- ĐĂNG NHẬP",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng truy cập vào hệ thống => Chọn vào nút đăng nhập"
+    ],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  },
+  {
+    "id": "dn_04",
+    "name": "THAY ĐỔI THÔNG TIN DOANH NGHIỆP",
+    "description": "- THAY ĐỔI THÔNG TIN DOANH NGHIỆP",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Sau khi đăng nhập, người dùng chọn chức năng “Quản trị” =>  “Thông tin doanh nghiệp”",
+      "Bước 2: Trong giao diện này, người dùng có thể thay đổi các thông tin sau doanh nghiệp . Sau đó chọn “Tiếp Tục” để xem lại thông tin",
+      "Bước 3: Chọn “Hoàn thành” để lưu lại thông tin vừa cập nhật"
+    ],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  },
+  {
+    "id": "dn_05",
+    "name": "THAY ĐỔI MẬT KHẨU",
+    "description": "- THAY ĐỔI MẬT KHẨU",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Sau khi đăng nhập, người dùng nháy chuột trái vào logo bên góc trái, sau đó chọn \"Đổi mật khẩu\"",
+      "Bước 2: Người dùng tiến hành nhập mật khẩu cũ và mật khẩu mới.",
+      "Bước 3: Người dùng chọn \"Lưu\". Hệ thống sẽ tự động đăng xuất, người dùng tiến hành nhập mật khẩu mới vừa lưu để đăng nhập lại."
+    ],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  },
+  {
+    "id": "dn_06",
+    "name": "BÁO CÁO ĐỊNH KỲ",
+    "description": "- BÁO CÁO ĐỊNH KỲ",
+    "sub_modules": [
+      "Bước 1: Người dùng chọn chức năng “Tai nạn lao động” =>  “Báo cáo TNLĐ định kỳ  (có HĐLĐ) ”",
+      "Bước 2: Người dùng chọn vào biểu tượng  “Bút chì” vào kỳ báo cáo muốn thực hiện",
+      "Bước 3: Phần mềm hiển thị biểu mẫu để nhập thông tin cho báo cáo",
+      "Bước 4: Mục “thông tin doanh nghiệp” sẽ hiển thị lại các thông tin của doanh nghiệp, trường hợp sai thông tin người dùng quay lại để chỉnh sửa thông tin, người dùng tiến hành nhập thêm các thông tin:",
+      "Bước 5: Mục “Tai nạn lao động” người dùng nhập tab “Tổng số vụ tai nạn lao động”",
+      "Bước 5: Tab “Chi tiết các vụ tai nạn lao động” phần mềm sẽ hiển thị số lượng các vụ tai nạn lao động theo dữ liệu người dùng đã nhập.  Người dùng tiến hành nhập chi tiết : phân theo nguyên nhân, yếu tố chấn thương, nghề nghiệp từng vụ tai nạn lao động.",
+      "Bước 7: Sau khi đã nhập xong số liệu , người dùng chọn “Tiếp tục”.  Phần mềm sẽ chuyển sang mục báo cáo số 2 “Tai nạn lao động được hưởng trợ cấp theo quy định tại khoản 2 điều 39 luật ATVSLĐ” . Nếu doanh nghiệp không có thì có thể nhập 0",
+      "Bước 9: Sau khi đã nhập xong số liệu , người dùng chọn “Tiếp tục”. Phần mềm sẽ chuyển sang mục “Xem Tổng quan báo cáo”. Tại đây, người dùng có thể xem được tổng quan dữ liệu báo cáo mà người dùng đã nhập.",
+      "Bước 10: Người dùng tiến hành chọn  chức năng “In báo cáo”  để tiến hành xuất báo cáo.",
+      "Bước 11: chọn “Gửi báo cáo” để gửi báo cáo lên Sở.",
+      "Tổng quan",
+      "Bước 1: Người dùng chọn chức năng Báo cáo định kỳ. Phần mềm hiển thị danh sách  kỳ báo cáo đang chờ khai báo",
+      "Bước 2: Người dùng chọn vào biểu tượng để tiến hành khai báo. Phần mềm hiển thị giao diện khai báo việc sử dụng lao động",
+      "Bước 3: Người dùng tiến hành nhập thông tin vào các mục trong báo cáo.",
+      "Bước 4: Sau khi người dùng hoàn thành nhập liệu, người dùng chọn “Tiếp tục” để xem tổng quan các dữ liệu người dùng đã nhập trong báo",
+      "Bước 5: Các doanh nghiệp sẽ tiến hành ký tên, đóng mộc bản báo cáo và tiến hành scan bản báo cáo đã trình ký. Sau đó, người dùng sẽ đính kèm file báo cáo đã scan vào mục Tải lên",
+      "Bước 6: Người dùng chọn một trong các thao tác sau:"
+    ],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  },
+  {
+    "id": "dn_07",
+    "name": "THỐNG KÊ",
+    "description": "- THỐNG KÊ",
+    "sub_modules": [
+      "Tổng quan",
+      "Bước 1: Người dùng chọn chức năng Báo cáo định kỳ => Chọn mục Thống kê",
+      "Bước 2: Người dùng chọn vào năm cần xem thống kê và chọn vào kỳ báo cáo (6 tháng/ Cả năm )",
+      "Bước 3: Hệ thống hiển thị biểu đồ thống kê theo từng tiêu chí tương ứng"
+    ],
+    "document_source": "_AI_HDSD_ATLĐ (DN).v1_HCM_2026 (1).docx"
+  }
+]
